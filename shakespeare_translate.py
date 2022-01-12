@@ -1,3 +1,14 @@
+__author__ = "Sammy Garcia s@mmygarcia.com"
+__version__ = "0.0.0"
+
+
+
+
+
+
+
+
+
 def shakespeare_translate(words):
     words = words.lower().split(" ")
 
@@ -174,4 +185,3 @@ def shakespeare_translate(words):
             words[word_index] = "zany"
 
     return " ".join(words)
-print(shakespeare_translate("why are you doing that to me"))
