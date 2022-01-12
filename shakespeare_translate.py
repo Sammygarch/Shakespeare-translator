@@ -1,15 +1,7 @@
 __author__ = "Sammy Garcia s@mmygarcia.com"
 __version__ = "0.0.0"
 
-
-
-
-
-
-
-
-
-def shakespeare_translate(words):
+def translate(words):
     words = words.lower().split(" ")
 
 
