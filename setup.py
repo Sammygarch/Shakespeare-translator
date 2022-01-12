@@ -16,12 +16,11 @@ setup(name="shakespeare_translate",
       long_description=long_description,
       license="MIT",
       classifiers= [
-          "Development Status :: 2 - Pre-Alpha",
+          "Development Status :: 4 - Beta",
           "License :: OSI Approved :: MIT License",
           "Natural Language :: English",
           "Operating System :: OS Independent",
-          "Programming Language :: Python :: 3",
-          "Topic :: Utilities"
+          "Programming Language :: Python :: 3"
                 ],
       python_requires=">=3"
 )
