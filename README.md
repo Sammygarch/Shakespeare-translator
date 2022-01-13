@@ -23,11 +23,11 @@ v
 <div id="about"></div>
 
 #### To import:
-<div id="import"></div>
+
 ```
 from shakespeare_translator import shakespeare_translate
 ```
-
+<div id="import"></div>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Sammygarch/Shakespeare-translator.svg?style=for-the-badge
 [contributors-url]: https://github.com/Sammygarch/Shakespeare-translator/graphs/contributors
