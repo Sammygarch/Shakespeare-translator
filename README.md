@@ -3,31 +3,30 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+v
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#" >About The Project</a>
+      <a href="#about" >About The Project</a>
     </li>
      <li>
-      <a href="#" >How to Import</a>
+      <a href="#import" >How to Import</a>
     </li>
   </ol>
 </details>
 
 
-# School Algorithms
-######
+# Shakespeare Translator
+###### shakespeare_translator translates your plain modern English text into Shakespearean.
+<div id="about"></div>
 
 #### To import:
+<div id="import"></div>
 ```
 from shakespeare_translator import shakespeare_translate
 ```
-
-
-
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/Sammygarch/Shakespeare-translator.svg?style=for-the-badge
