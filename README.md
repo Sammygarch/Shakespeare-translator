@@ -19,7 +19,7 @@ v
 
 
 # Shakespeare Translator
-###### shakespeare_translator translates your plain modern English text into Shakespearean.
+###### shakespeare_translator translates your plain modern English text into Shakespearean English.
 <div id="about"></div>
 
 #### To import:
